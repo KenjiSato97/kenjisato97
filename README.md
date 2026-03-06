@@ -1,30 +1,39 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00613C&height=180&section=header&text=Kenji%20Sato&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00613C&height=200&section=header&text=Kenji%20Sato&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Data%20Engineer%20%7C%20Analytics%20%7C%20Python&descAlignY=65"/>
 
-💻 **Desenvolvedor focado em Dados**  
-📊 Transformando dados em **insights e produtos reais**  
-🚀 Apaixonado por **engenharia de dados, análise e sistemas**
+<p align="justified">
+
+<img src="https://komarev.com/ghpvc/?username=kenjisato97&label=Profile%20views&color=00613C&style=for-the-badge"/>
+
+</p>
+
+💻 **Data Engineer & Data Analyst**  
+📊 Especialista em **pipelines de dados, automação e analytics**  
+🚀 Transformando dados em **insights estratégicos e produtos digitais**
 
 ---
 
 # 🧠 Sobre Mim
 
-Sou um desenvolvedor que trabalha na interseção entre **dados, backend e produtos digitais**.
+Sou **Engenheiro de Dados e Analista de Dados** com experiência em desenvolvimento de **pipelines ETL/ELT, automação de processos e análise de dados em larga escala**.
 
-### 🚀 Projetos relevantes
+Trabalho na interseção entre **engenharia de dados, análise e desenvolvimento de produtos**, construindo soluções que transformam dados brutos em **informações estratégicas para tomada de decisão**.
 
-📚 **Educação**
-- Plataforma educacional usando **imagens aeroespaciais para ensino de geografia**
-- Sistema de **avaliação de competências e habilidades**
+💡 Principais focos:
 
-💰 **Finanças**
-- Ecossistema completo de **gestão financeira pessoal**
-- Automação de controle bancário e análise de gastos
+- Engenharia de Dados
+- Automação de pipelines
+- Análise de dados
+- NLP para processamento documental
+- Data visualization e dashboards
 
-📊 **Data Analytics**
-- Projeto de análise cruzando dados do **Olist** com dados demográficos do **IBGE**
-- Modelagem e análise com Python e SQL
+📈 **Resultados comprovados**
+
+- Redução de até **70% no tempo de processamento de dados**
+- Automação de pipelines e coleta de dados de **múltiplas fontes internacionais**
+- Extração automatizada de dados em **600+ documentos multilíngues**
 
 ---
+
 
 # 🛠️ Tech Stack
 
@@ -34,21 +43,34 @@ Sou um desenvolvedor que trabalha na interseção entre **dados, backend e produ
 <img src="https://skillicons.dev/icons?i=python,js,java,sql"/>
 </p>
 
-### Frameworks / Tools
+### Data Engineering
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,postgres,docker,git"/>
+<img src="https://skillicons.dev/icons?i=postgres,docker,git"/>
 </p>
 
-### Data & Analytics
+**Principais tecnologias**
 
-<p>
-<img src="https://skillicons.dev/icons?i=pandas,numpy"/>
-</p>
+- Apache Airflow
+- ETL / ELT Pipelines
+- Data Pipelines
+- Workflow Orchestration
+- Automação de dados
 
 ---
 
-## 📊 Estatísticas GitHub
+### Data Analysis
+
+- Pandas
+- NumPy
+- Matplotlib
+- Streamlit
+- Data Visualization
+- NLP para documentos multilíngues
+
+---
+
+# 📊 Estatísticas GitHub
 
 <p align="center">
 
@@ -60,14 +82,13 @@ Sou um desenvolvedor que trabalha na interseção entre **dados, backend e produ
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenjisato97&layout=compact&theme=dracula&hide_border=true&cache_seconds=1800"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenjisato97&layout=compact&theme=dracula&hide_border=true"/>
 
 </p>
 
 ---
 
-## 🐍 Contribuições
-
+# 🐍 Contribuições
 
 <p align="center">
 
@@ -85,7 +106,7 @@ Sou um desenvolvedor que trabalha na interseção entre **dados, backend e produ
 
 # ⚽ Interesses
 
-Quando não estou programando, provavelmente estou torcendo pelo **Fluminense**
+Quando não estou programando, provavelmente estou torcendo pelo **Fluminense**.
 
 ![Fluminense](https://img.shields.io/badge/Fluminense-FC-7a1f2b?style=for-the-badge)
 
