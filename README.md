@@ -70,7 +70,7 @@ Sou um desenvolvedor que trabalha na interseção entre **dados, backend e produ
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/kenjisato97/kenjisato97/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/kenjisato97/kenjisato97/output/github-contribution-grid-snake-dark.svg">
 
 </p>
 
