@@ -1,4 +1,4 @@
-name: Generate Snake
+name: Generate Fluminense Snake
 
 on:
   schedule:
@@ -15,13 +15,13 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - name: Generate snake
+      - name: Generate snake animation
         uses: Platane/snk@v3
         with:
           github_user_name: kenjisato97
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg
+            dist/github-snake.svg?color_snake=7a1f2b&color_dots=#1e5128,#2d6a4f,#40916c,#52b788,#74c69d
+            dist/github-snake-dark.svg?color_snake=7a1f2b&color_dots=#1e5128,#2d6a4f,#40916c,#52b788,#74c69d
 
       - name: Push snake
         uses: crazy-max/ghaction-github-pages@v3
