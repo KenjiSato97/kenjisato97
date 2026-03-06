@@ -68,9 +68,10 @@ Sou um desenvolvedor que trabalha na interseção entre **dados, backend e produ
 
 ## 🐍 Contribuições
 
+
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/kenjisato97/kenjisato97/output/github-snake-dark.svg">
+<img src="https://raw.githubusercontent.com/kenjisato97/kenjisato97/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
@@ -79,6 +80,7 @@ Sou um desenvolvedor que trabalha na interseção entre **dados, backend e produ
 <img src="https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Fluminense_FC_crest.svg/120px-Fluminense_FC_crest.svg.png" width="80"/>
 
 </p>
+
 ---
 
 # ⚽ Interesses
