@@ -91,15 +91,15 @@ Trabalho na interseção entre **engenharia de dados, análise e desenvolvimento
 # 🐍 Contribuições
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/kenjisato97/kenjisato97/output/github-contribution-grid-snake-dark.svg"/>
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kenjisato97/kenjisato97/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kenjisato97/kenjisato97/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kenjisato97/kenjisato97/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 <p align="center">
-
-<img src="https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Fluminense_FC_crest.svg/120px-Fluminense_FC_crest.svg.png" width="80"/>
-
+  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Fluminense_FC_crest.svg/120px-Fluminense_FC_crest.svg.png" width="80"/>
 </p>
 
 ---
