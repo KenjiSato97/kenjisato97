@@ -73,17 +73,8 @@ Trabalho na interseção entre **engenharia de dados, análise e desenvolvimento
 # 📊 Estatísticas GitHub
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kenjisato97&show_icons=true&theme=dracula&hide_border=true"/>
-
-<img height="170" src="https://streak-stats.demolab.com?user=kenjisato97&theme=dracula&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenjisato97&layout=compact&theme=dracula&hide_border=true"/>
-
+  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kenjisato97&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=00613C&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kenjisato97&layout=compact&langs_count=16&title_color=ffffff&text_color=ffffff&bg_color=00613C&hide_border=true"/>
 </p>
 
 ---
@@ -98,17 +89,11 @@ Trabalho na interseção entre **engenharia de dados, análise e desenvolvimento
   </picture>
 </p>
 
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Fluminense_FC_crest.svg/120px-Fluminense_FC_crest.svg.png" width="80"/>
-</p>
-
 ---
 
 # ⚽ Interesses
 
 Quando não estou programando, provavelmente estou torcendo pelo **Fluminense**.
-
-![Fluminense](https://img.shields.io/badge/Fluminense-FC-7a1f2b?style=for-the-badge)
 
 ---
 
