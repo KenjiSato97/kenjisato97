@@ -48,39 +48,19 @@ Sou um desenvolvedor que trabalha na interseção entre **dados, backend e produ
 
 ---
 
-# 📊 Estatísticas GitHub
+## 📊 Estatísticas GitHub
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kenjisato97&show_icons=true&theme=dracula"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kenjisato97&show_icons=true&theme=dracula&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=kenjisato97&theme=dracula"/>
+<img height="170" src="https://streak-stats.demolab.com?user=kenjisato97&theme=dracula&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenjisato97&layout=compact&theme=dracula"/>
-
-</p>
-
----
-
-# 🏆 Conquistas
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=kenjisato97&theme=dracula&row=1&column=7"/>
-
-</p>
-
----
-
-# 📈 Atividade
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kenjisato97&theme=dracula"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenjisato97&layout=compact&theme=dracula&hide_border=true&cache_seconds=1800"/>
 
 </p>
 
@@ -98,7 +78,7 @@ Sou um desenvolvedor que trabalha na interseção entre **dados, backend e produ
 
 # ⚽ Interesses
 
-Quando não estou programando, provavelmente estou torcendo pelo **Fluminense** 🇭🇺
+Quando não estou programando, provavelmente estou torcendo pelo **Fluminense**
 
 ![Fluminense](https://img.shields.io/badge/Fluminense-FC-7a1f2b?style=for-the-badge)
 
