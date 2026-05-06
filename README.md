@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00613C&height=200&section=header&text=Kenji%20Sato&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Data%20Engineer%20%7C%20Analytics%20%7C%20Python&descAlignY=65"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00613C&height=200&section=header&text=Kenji%20Sato&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Data%20Science%20%7C%20Analytics%20%7C%20Python&descAlignY=65"/>
 
 <p align="justified">
 
