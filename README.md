@@ -6,7 +6,7 @@
 
 </p>
 
-💻 **Data Engineer & Data Analyst**  
+💻 **Data Science & Data Engineer**  
 📊 Especialista em **pipelines de dados, automação e analytics**  
 🚀 Transformando dados em **insights estratégicos e produtos digitais**
 
@@ -14,7 +14,7 @@
 
 # 🧠 Sobre Mim
 
-Sou **Engenheiro de Dados e Analista de Dados** com experiência em desenvolvimento de **pipelines ETL/ELT, automação de processos e análise de dados em larga escala**.
+Sou **Engenheiro de Dados e Cientista de Dados** com experiência em desenvolvimento de **pipelines ETL/ELT, automação de processos e análise de dados em larga escala**.
 
 Trabalho na interseção entre **engenharia de dados, análise e desenvolvimento de produtos**, construindo soluções que transformam dados brutos em **informações estratégicas para tomada de decisão**.
 
